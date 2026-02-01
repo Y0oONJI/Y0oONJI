@@ -1,6 +1,7 @@
 # Y0oONJI
 
 Copyright © 2026 OiN0oJY. All rights reserved.
+
 디자인과 기술의 접점을 탐구하는 UI/UX 디자이너입니다.  
 배움과 기록을 통해 더 나은 경험을 만드는 데 관심이 있습니다.
 
